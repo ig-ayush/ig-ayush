@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/ig_ayushacharya" target="blank"><img src="https://img.shields.io/twitter/follow/ig_ayushacharya?logo=twitter&style=for-the-badge" alt="ig_ayushacharya" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ig-ayush](https://github.com/ig-ayush)
 
 - 📫 How to reach me **igayushacharya@gmail.com**
 
 - 📄 Know about me [https://resume-virid-ten.vercel.app/](https://resume-virid-ten.vercel.app/)
+
+ - 👨‍💻 projects available at vercel [Vercel](https://vercel.com/ayush-acharyas-projects-41e60709)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
