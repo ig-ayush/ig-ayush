@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **igayushacharya@gmail.com**
 
-- 📄 Know about me [https://resume-virid-ten.vercel.app/](https://resume-virid-ten.vercel.app/)
+- 📄 Know about me [My Resume](https://resume-virid-ten.vercel.app/)
 
  - 👨‍💻 projects available at vercel [Vercel](https://vercel.com/ayush-acharyas-projects-41e60709)
 
