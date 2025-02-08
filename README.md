@@ -5,8 +5,8 @@
 - 👋 Hi, I'm Ayush Acharya 
 -  < Passionate coder working towards mastering Full-Stack Development.              
 - 🌱 I’m currently learning Bachelor of computer science.
--  < Check out my resume:  https://resume-virid-ten.vercel.app/
-- 📫 How to reach me igayushacharya@gmail.com
+-  < Check out my resume:  [My Resume](https://resume-virid-ten.vercel.app/)
+- 📫 How to reach me: &nbsp; igayushacharya@gmail.com
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
 <img style="width:20vh" src="./coding.gif" alt="Programmer Gif">
 
