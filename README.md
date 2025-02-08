@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ig-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="ig-ayush" /> </p>
 
 - 👋 Hi, I'm Ayush Acharya 
-- 👀 Passionate coder working towards mastering Full-Stack Development.              
+-  > Passionate coder working towards mastering Full-Stack Development.              
 - 🌱 I’m currently learning Bachelor of computer science.
 -  < Check out my resume:  https://resume-virid-ten.vercel.app/
 - 📫 How to reach me igayushacharya@gmail.com
