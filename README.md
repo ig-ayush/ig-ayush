@@ -1,4 +1,4 @@
-# Hello Techies! 👋<br>
+# Hello Techies!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ig-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="ig-ayush" /> </p>
 
