@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ig-ayush&label=Profile%20views&color=0e75b6&style=flat" alt="ig-ayush" /> </p>
 
 - 👋 Hi, I'm Ayush Acharya 
--  < Passionate coder working towards mastering Full-Stack Development.              
-- 🌱 I’m currently learning Bachelor of computer science.
--  < Check out my resume :  [My Resume](https://resume-virid-ten.vercel.app/)
+-  <  Enthusiastic coder, passionate about mastering Full-Stack Development               
+- 🛠️ Currently upskilling in Java & Python for software development
+-  < Open to collaborating on Full-Stack and web projects.
 - 📫 How to reach me : &nbsp; igayushacharya@gmail.com
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
 <img style="width:30vh" src="./coding.gif" alt="Programmer Gif">
@@ -37,5 +37,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ig-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
-``` Ayush Acharya'' ```
+``` - ig-ayush  ```
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
