@@ -4,7 +4,7 @@
 
 - 👋 Hi, I'm Ayush Acharya 
 -  <  Enthusiastic coder, passionate about mastering Full-Stack Development               
-- 🛠️ Currently upskilling in Java & Python for software development
+- 🛠️ Currently upskilling in Java & Python for software development.
 -  < Open to collaborating on Full-Stack and web projects.
 - 📫 How to reach me  ->&nbsp; igayushacharya@gmail.com
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
