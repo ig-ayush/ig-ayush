@@ -6,7 +6,7 @@
 -  <  Enthusiastic coder, passionate about mastering Full-Stack Development               
 - 🛠️ Currently upskilling in Java & Python for software development.
 -  < Open to collaborating on Full-Stack and web projects.
-- 📫 How to reach me  ->&nbsp; igayushacharya@gmail.com
+- 📫 How to reach me: &nbsp; igayushacharya@gmail.com
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
 <img style="width:30vh" src="./coding.gif" alt="Programmer Gif">
 
