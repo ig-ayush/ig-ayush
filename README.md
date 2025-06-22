@@ -8,7 +8,7 @@
 -  < Open to collaborating on Full-Stack and web projects.
 - 📫 How to reach me: &nbsp; igayushacharya@gmail.com
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
-<img style="width:30vh" src="./Banner.gif" alt="Programmer Gif">
+<img style="width:70vh" src="./Banner.gif" alt="Programmer Gif">
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
