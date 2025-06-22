@@ -31,13 +31,12 @@
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
   <h1>
-  # 📊 GitHub Stats:
+   📊 GitHub Stats:
   </h1>
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=ig-ayush&theme=dark&hide_border=false)<br/>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ig-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 
 
