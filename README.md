@@ -29,13 +29,17 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) 
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ig-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<div align="center">
+  <h1>
+  # 📊 GitHub Stats:
+  </h1>
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+  <img src="https://github-readme-stats.vercel.app/api?username=ig-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ig-ayush&theme=dark&hide_border=false) &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ig-ayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ig-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
