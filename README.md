@@ -43,5 +43,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ig-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
 ``` - ig-ayush  ``` 
-``` check my portfolio ```  -  https://ayushacharya.vercel.app/
+ [X](https://x.com/ig_ayushacharya) • [Portfolio](https://ayushacharya.vercel.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
