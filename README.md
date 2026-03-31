@@ -29,18 +29,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) 
 
 - -------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="center">
-  <h1>
-   📊 GitHub Stats:
-  </h1>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ig-ayush&theme=dark&hide_border=false)<br/>
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-</div>
-
-
----
 [![](https://visitcount.itsvg.in/api?id=ig-ayush&icon=0&color=0)](https://visitcount.itsvg.in)
 ``` - ig-ayush  ``` 
  [X](https://x.com/ig_ayushacharya) • [Portfolio](https://ayushacharya.vercel.app/)
