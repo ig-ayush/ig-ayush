@@ -8,7 +8,7 @@
 - Hi, I'm Ayush Acharya
 - Passionate about full-stack development and modern web technologies
 - Enjoy building projects that improve real-world user experience
-- Currently enhancing skills in Java, Python, and backend frameworks
+- Completed Full Stack Development (Java & Python) – KodNest
 
 <p align="center">
   <img src="./Banner.gif" alt="Banner" width="80%" />
