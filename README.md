@@ -7,7 +7,7 @@
 ## About Me
 - Hi, I'm Ayush Acharya
 - Passionate about full-stack development and modern web technologies
-- Enjoy building projects that improve real-world user experience
+- Enjoy building projects that improve real-world user experiences
 - Earned a Full Stack Development (Java & Python) Certification – [View Certificate](https://app.kodnest.com/certificate/c4dd0980-b159-4798-aba9-bb40993cd38e) | [KodNest](https://www.kodnest.com/)
 
 <p align="center">
