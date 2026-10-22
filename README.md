@@ -9,7 +9,7 @@
              ─────┴─────
 ```
 
-## Hey, I'm Ayush 👋
+## Hey, I'm Ayush👋
 
 **Aspiring Full-Stack Dev** • Programmer • Tech Enthusiast • Learner
 
